@@ -1,0 +1,15 @@
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.AssemblyInfoInputs.cache
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.AssemblyInfo.cs
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.csproj.CoreCompileInputs.cache
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\DelegatePractice.exe
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\DelegatePractice.deps.json
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\DelegatePractice.runtimeconfig.json
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\DelegatePractice.dll
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\ref\DelegatePractice.dll
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\bin\Debug\net6.0\DelegatePractice.pdb
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.dll
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\ref\DelegatePractice.dll
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.pdb
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.genruntimeconfig.cache
+E:\himanshu\Development\EmpMng\DelegatePractice\DelegatePractice\DelegatePractice\obj\Debug\net6.0\DelegatePractice.csproj.AssemblyReference.cache
